@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\VacancyController;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,6 +33,11 @@ Route::get('/new-forget', function () {
 Route::get('/', function () {
     return view('welcome');
 });
+
+//Vacancies Routes
+
+
+Route::get('/vacancies',[VacancyController::class, 'index']);
 
 
 Route::get('/home', function () {

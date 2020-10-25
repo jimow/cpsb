@@ -302,7 +302,7 @@
                     <li><a href="contact.html">Contact</a></li>                    
                 </ul>
             </li>
-            <li> <a href="javascript:void(0);" class="menu-toggle"><i class="zmdi zmdi-assignment"></i><span>Jobs</span></a>
+            <li> <a href="javascript:void(0);" class="menu-toggle"><i class="zmdi zmdi-assignment"></i><span>Jobs / Vacancies</span></a>
                 <ul class="ml-menu">
                     <li><a href="project-list.html">Add new Job List</a></li>
                     <li><a href="taskboard.html">View jobs</a></li>
