@@ -60,7 +60,7 @@
                         <li>
                             <a href="image-gallery.html">
                                 <div class="icon-circle mb-2 bg-green"><i class="zmdi zmdi-camera"></i></div>
-                                <p class="mb-0">Jobs</p>
+                                <p class="mb-0">Jobs / Vacancies</p>
                             </a>
                         </li>
                         <li>
